@@ -13,5 +13,5 @@ Tired of relatives watching all that pathetic shit? Oh boy here's an easy soluti
 This is literally the stupidest thing i've ever made, but it works beautifully
 
 
-##Credits
+## Credits
  Made with ❤️ by 123Lory321
