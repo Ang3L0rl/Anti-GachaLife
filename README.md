@@ -14,4 +14,4 @@ This is literally the stupidest thing i've ever made, but it works beautifully
 
 
 ##Credits
-Made with ❤️ by 123Lory321
+ Made with ❤️ by 123Lory321
