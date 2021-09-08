@@ -1,3 +1,5 @@
+![](https://img.shields.io/codefactor/grade/github/123Lory321/anti-gachalife/main?style=for-the-badge)
+
 # Anti-GachaLife
 Tired of relatives watching all that pathetic shit? Oh boy here's an easy solution for you! (and maybe your ears, too)
 
@@ -9,3 +11,7 @@ Tired of relatives watching all that pathetic shit? Oh boy here's an easy soluti
  - Select the folder where you just extracted the zip.
 
 This is literally the stupidest thing i've ever made, but it works beautifully
+
+
+##Credits
+Made with ❤️ by 123Lory321
